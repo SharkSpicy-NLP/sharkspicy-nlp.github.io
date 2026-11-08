@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-10-18'
+  last_updated: '2026-11-08'
 papers:
   pPLsV2kAAAAJ:2osOgNQ5qMEC:
-    citations: 23
+    citations: 27
     title: 'TableEval: A Real-World Benchmark for Complex, Multilingual, and Multi-Structured Table Question Answering'
     year: '2025'
   pPLsV2kAAAAJ:IjCSPb-OGe4C:
-    citations: 13
+    citations: 14
     title: 'Conformity Dynamics in LLM Multi-Agent Systems: The Roles of Topology and Self-Social Weighting'
     year: '2026'
   pPLsV2kAAAAJ:Tyk-4Ss8FVUC:
@@ -22,7 +22,7 @@ papers:
     title: 'Hetero-Designer: Automated Design of Multi-Agent Systems with Heterogeneous LLMs'
     year: '2026'
   pPLsV2kAAAAJ:WF5omc3nYNoC:
-    citations: 6
+    citations: 7
     title: 'From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search'
     year: '2026'
   pPLsV2kAAAAJ:Y0pCki6q_DkC:
@@ -30,7 +30,7 @@ papers:
     title: 'STAGE-Claw: Automated State-based Agent Benchmarking for Realistic Scenarios'
     year: '2026'
   pPLsV2kAAAAJ:qjMakFHDy7sC:
-    citations: 39
+    citations: 41
     title: 'EvolKV: Evolutionary KV Cache Compression for LLM Inference'
     year: '2025'
   pPLsV2kAAAAJ:ufrVoPGSRksC:
@@ -38,7 +38,7 @@ papers:
     title: 'Quantization Degradation in Large Language Models: A Signal-Noise Perspective'
     year: '2026'
   pPLsV2kAAAAJ:zYLM7Y9cAGgC:
-    citations: 4
+    citations: 5
     title: Task-Stratified Knowledge Scaling Laws for Post-Training Quantized Large Language Models
     year: '2026'
   pPLsV2kAAAAJ:_FxGoFyzp5QC:
@@ -46,10 +46,18 @@ papers:
     title: 'Beyond Factual Knowledge: Benchmarking and Learning Step-Level Procedural Rule Reasoning in Large Language Models'
     year: '2026'
   pPLsV2kAAAAJ:LkGwnXOMwfcC:
-    citations: 1
+    citations: 2
     title: 'RuleWeaver: Benchmarking Rule-Centered Scenario Reasoning for Large Language Models'
     year: '2026'
   pPLsV2kAAAAJ:roLk4NBRz8UC:
     citations: 0
     title: 'PReM: Learning What to Preserve and When to Refresh for Context Compression'
+    year: '2026'
+  pPLsV2kAAAAJ:hqOjcs7Dif8C:
+    citations: 0
+    title: 'AtomSD: Procedural Atom-Guided Self-Distillation for LLM Agents'
+    year: '2026'
+  pPLsV2kAAAAJ:UebtZRa9Y70C:
+    citations: 0
+    title: 'RuleTrek: Benchmarking Agentic Rule Reasoning in Complex Scenarios'
     year: '2026'
